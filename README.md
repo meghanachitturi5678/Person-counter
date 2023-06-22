@@ -18,22 +18,33 @@ Arduino code for this project is in person_counter.ino
 
 To provide the following information to authority of a public place:
 -When the room is completely unoccupied
+
 -When the capacity exceeds the limit by covid protocol
+
 -And allowing the people to know when they could enter the room
 
 # Features
 
 -When the visitors count is less than  capacity,red LED glows at entrance of room which indicates a person that he could enter the room
+
 -When the visitors count exceeds capacity of room,a buzzer will be given alerting the people inside that room’s capacity is exceeded
+
 -An email will be sent to the gmail address of concerned person of room when the room becomes empty
+
 -An email will be sent to  gmail address of concerned person of room when the capacity of room exceeds limit
+
 -Visitors count will always be plotted in a graph in ThingSpeak,OM2M
   
 # Required Hardware:
 
 -PIR Sensors(2)
+
 -Buzzer
+
 -LEDs
+
 -ESP32
+
 -Jumper wires
+
 -Breadboard
