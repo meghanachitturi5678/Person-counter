@@ -8,7 +8,9 @@ Arduino code for this project is in person_counter.ino
 # Why our project?
 
 -In many public places irrespective of occupancy of room,electrical appliances will often be working
+
 -With the help of our project,concerned authority of room can know when the room is completely unoccupied and they can turn OFF the list of electrical appliances provided to them through mail.This really avoids the unnecessary wastage of electricity.
+
 -In recent times,it’s necessary that a place won’t get overcrowded i.e.,it is necessary to maintain covid protocol in a public place and hence this is included in our project.
  when the room’s capacity exceeds the fixed limit,the authority of the place could know that
 
