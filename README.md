@@ -25,7 +25,7 @@ To provide the following information to authority of a public place:
 
 # Features
 
-->When the visitors count is less than  capacity,red LED glows at entrance of room which indicates a person that he could enter the room
+->When the visitors count is less than  capacity,green LED glows at entrance of room which indicates a person that he could enter the room
 
 ->When the visitors count exceeds capacity of room,a buzzer will be given alerting the people inside that room’s capacity is exceeded
 
